@@ -1,0 +1,4 @@
+Public Subnet 1a: subnet-07c497e852bc8f16c, 10.0.1.0/24, us-east-1a
+Public Subnet 1b: subnet-0406e3eab2e807541, 10.0.2.0/24, us-east-1b
+Private Subnet 1a: ssubnet-0894f06b0a139ba97, 10.0.11.0/24, us-east-1a
+Private Subnet 1b: ssubnet-0d9ff37092452f5e4, 10.0.12.0/24, us-east-1b

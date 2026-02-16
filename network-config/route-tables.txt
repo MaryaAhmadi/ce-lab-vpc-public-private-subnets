@@ -1,0 +1,7 @@
+Public RT: rtb-04fca0dd874037062, VPC vpc-0d9dac6d4af73ed53
+  Routes: 10.0.0.0/16 local, 0.0.0.0/0 via IGW igw-0ce4d685f3f419379
+  Subnets: public-subnet-1a, public-subnet-1b
+
+Private RT: rtb-0d2fb3aeb5fff051e, VPC vpc-0d9dac6d4af73ed53
+  Routes: 10.0.0.0/16 local
+  Subnets: private-subnet-1a, private-subnet-1b
